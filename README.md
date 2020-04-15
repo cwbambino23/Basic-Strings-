@@ -1,4 +1,4 @@
-# Basic-Strings-myString =  "PT1000122123" #Store number in a variable 
+                        # Basic-Strings-myString =  "PT1000122123" #Store number in a variable 
 print (myString[0:2]) #Print the characters in the string 
 
 myString =  "1000122123PT" #Store number in a variable 
